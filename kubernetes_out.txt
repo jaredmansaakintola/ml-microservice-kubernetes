@@ -24,6 +24,12 @@ Handling connection for 8000
 [2020-04-16 22:11:26,923] INFO in app: Prediction:
 [20.35373177134412]
 127.0.0.1 - - [16/Apr/2020 22:11:26] "POST /predict HTTP/1.1" 200 -
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
 
 
 
@@ -33,8 +39,7 @@ Handling connection for 8000
 
 
 
-
-
+Previous:
 [2020-04-02 02:13:04,440] INFO in app: JSON payload:
 {'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
 [2020-04-02 02:13:04,457] INFO in app: Inference payload DataFrame:
