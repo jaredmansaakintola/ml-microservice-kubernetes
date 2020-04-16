@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![jaredosei](https://circleci.com/gh/jaredosei/ml-microservice.svg?style=svg)](https://circleci.com/workflow-run/7dbcfad7-d145-45a8-b216-1d98d511012d)
 
 ## Project Overview
 
